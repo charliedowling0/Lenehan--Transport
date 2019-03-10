@@ -8,3 +8,18 @@ h3 {font-size: 15px;}
     padding-left: 20px;
     padding-right: 20px;
   }
+
+  h2 {font-size: 25px;}
+  .fleet-centered {
+      border: 1px solid black;
+      background-color: lightblue;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .carousel-item {
+          width:100vw;
+          height:70vh;
+        }
+    .carousel-inner {height: 70vh}
