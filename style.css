@@ -1,6 +1,7 @@
 h3 {font-size: 15px;}
 
 .centered {
+  width: 100vw
     border: 1px solid black;
     background-color: lightgrey;
     padding-top: 20px;
@@ -20,6 +21,33 @@ h3 {font-size: 15px;}
     }
     .carousel-item {
           width:100vw;
-          height:70vh;
+          height:50%;
         }
     .carousel-inner {height: 70vh}
+
+.bg-image-1 {
+  background-image: url("http://www.lenehantransport.com/uploads/3/4/7/8/34780318/726400.jpg?249");
+    height:
+}
+.bg-image-2 {
+  background-image: url("http://www.lenehantransport.com/uploads/3/4/7/8/34780318/813643.png?175");
+    height:
+}
+.centered-2 {
+    border: 1px solid black;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+h4 {font-size: 10px}
+.col-12 {
+  width: 100vw
+    border: 1px solid black;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+h6 {font-size: 20px}
